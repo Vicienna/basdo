@@ -50,11 +50,6 @@ li a:hover {
      text-decoration: underline;
 }
 
-li a:visited {
-     color: darkorange;
-     text-decoration: underline;
-}
-
 .container {
      background: #262626;
      padding-top: 12.5vh;
