@@ -47,6 +47,12 @@ li a {
 
 li a:hover {
      color: darkorange;
+     text-decoration: underline;
+}
+
+li a:visited {
+     color: darkorange;
+     text-decoration: underline;
 }
 
 .container {
